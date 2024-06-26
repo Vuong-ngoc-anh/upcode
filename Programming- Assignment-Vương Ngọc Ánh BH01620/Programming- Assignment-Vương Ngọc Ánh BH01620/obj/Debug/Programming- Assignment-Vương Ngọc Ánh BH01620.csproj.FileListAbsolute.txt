@@ -1,0 +1,7 @@
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\bin\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.exe.config
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\bin\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.exe
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\bin\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.pdb
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\obj\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.csproj.AssemblyReference.cache
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\obj\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.csproj.CoreCompileInputs.cache
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\obj\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.exe
+D:\Visual code\Programming- Assignment-Vương Ngọc Ánh BH01620\Programming- Assignment-Vương Ngọc Ánh BH01620\obj\Debug\Programming- Assignment-Vương Ngọc Ánh BH01620.pdb
